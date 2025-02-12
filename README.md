@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-## Data Structures and Algorithms CS 146 F22
+ Data Structures and Algorithms CS 146 F22
 
 Written in Eclipse 
 
